@@ -63,8 +63,5 @@ after all installing and creating of your ID then go with this command to run th
 
 `npm run dev`
 
-### This will be the web page :
-
-![Screenshot from 2020-04-09 18-00-06](https://user-images.githubusercontent.com/56226813/78895240-18e6a400-7a8c-11ea-8ee1-9cd889bf7f9c.png)
 
 <a href = "https://www.trufflesuite.com/tutorials/pet-shop">Source</a>
